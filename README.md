@@ -1,0 +1,2 @@
+# Exploratory-Data-Analysis-and-Visualization-of-Crime-Data-in-Los-Angeles-2020-Present-
+The analysis reveals that crimes peak at night, with monthly and area-based variations indicating seasonal trends and urban hotspots. Theft and assault are the most common, suggesting focus areas for policing and resource planning. These insights support targeted safety efforts and efficient crime prevention strategies.
